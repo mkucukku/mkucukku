@@ -8,4 +8,4 @@
 mkucukku/mkucukku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://github-readme-stats.vercel.app/api/top-langs/?username=mkucukku&layout=compact&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026)%5D(https://github.com/kajun1337/kajun1337)%5B!%5Bkajun1337%27s
+
