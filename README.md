@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa Kucukkurt</h1>
 <h3 align="center">I am student at Ecole 42 Kocaeli</h3>
 
+![giphy](https://github.com/mstfkucukkurt/mstfkucukkurt/assets/97673434/b2770f39-45a6-4512-91b5-1e58d60121f4)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafakucukkurt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafakucukkurt/" height="30" width="40" /></a>
